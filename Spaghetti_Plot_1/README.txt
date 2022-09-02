@@ -1,0 +1,1 @@
+This plot accomodates baseline and followup data, plotting each by any continuous variable on X or Y (X default is age) and coloring/shaping based on two discrete dx or additional variable. See example_plot.png.
